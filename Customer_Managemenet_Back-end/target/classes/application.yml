@@ -1,0 +1,9 @@
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/customer_manage
+    username: root
+    password: bavindu4300
+
+  jpa:
+    hibernate:
+      ddl-auto: update
